@@ -1,0 +1,13 @@
+All bot runn command
+
+1. sudo apt update -y
+
+2. sudo apt upgrade -y
+
+3. sudo apt install python3-pip
+
+4. pip install telebot
+
+5. chmod +x *
+
+6. python3 m.py
